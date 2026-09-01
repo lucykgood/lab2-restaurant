@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lab2_RestaurantOrder</string>
+    <string-array name="mealSize">
+        <item>"Small"</item>
+        <item>"Medium"</item>
+        <item>"Large"</item>
+    </string-array>
 </resources>
